@@ -1,5 +1,5 @@
-import allData from "./data/rickandmorty/rickandmorty.js";
-import { filterAll, filterDead, filterAlive, sortAll } from "./data.js";
+import allData from "./src/data/rickandmorty/rickandmorty.js";
+import { filterAll, filterDead, filterAlive, sortAll } from "./src/data.js";
 
 const All = document.getElementById("All");
 const Alive = document.getElementById("Alive");
