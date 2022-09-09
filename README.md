@@ -3,12 +3,10 @@
 ## Índice
 
 
-* [1. Resumen del proyecto](#1-resumen-del-proyecto)
-* [2. Objetivos de aprendizaje](#2-objetivos-de-aprendizaje)
-* [4. Consideraciones generales](#4-consideraciones-generales)
-* [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
-* [6. Consideraciones técnicas](#6-consideraciones-técnicas)
-* [7. Pistas, tips y lecturas complementarias](#7-pistas-tips-y-lecturas-complementarias)
+* [1. Resumen del proyecto](#1-Resumen-del-proyecto)
+* [2. Prototipos](#2-Prototipos)
+* [3. Historia de usuario](#3-Historia-de-usuario)
+* [4. Pruebas unitarias](#4-Pruebas-unitarias)
 
 ## 1. Resumen del proyecto
 
