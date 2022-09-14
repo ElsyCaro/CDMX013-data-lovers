@@ -27,7 +27,7 @@ Proceso de creacion de prototipo de alta fidelidad: En este prototipo se trabajo
 
 ## 3. Historia de usuario
 
-* HU1:Yo como usuaria de Rick And Morty quiero ver los personajes que aparecen en la serie par identificarlos y saber la información, sin ningun orden en especifico.
+* HU1:Yo como usuaria de Rick And Morty quiero ver los personajes que aparecen en la serie para identificarlos y saber la información, sin ningun orden en especifico.
 * HU2: Yo como usuaria de rick And Morty quiero filtrar a los personajes que aparecen en la serie, segun algun estatus para conocer diferentes personajes que salen en la serie.
 * HU3: Yo como usuaria de Rick And Morty quiero ordenar a los personajes que aparecen en la serie, para para identificarlos mas rápido.
 * HU4: Yo como usuaria de Rick And Morty quiero buscar a los personajes que aparecen en la serie, ya sea por su nombre para poder identificarlos según su criterio.
